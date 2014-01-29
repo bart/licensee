@@ -1,0 +1,23 @@
+{
+    "name": "bart/licensee",
+    "description": "Simple PHP class for license generation and verification based on openssl signatures",
+	"keywords": ["license", "openssl", "signature"],
+	"license": "MIT",
+    "authors": [
+        {
+            "name": "Rene Bartkowiak",
+            "email": "info@rene-bartkowiak.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.x",
+		"claudusd/cryptography": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "Bart\\Licensee": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
