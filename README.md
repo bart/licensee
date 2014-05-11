@@ -1,5 +1,7 @@
 # Licensee
 
+[![ProjectStatus](http://stillmaintained.com/bart/licensee.png)](http://stillmaintained.com/bart/licensee)
+
 A simple PHP class for license generation and verification based on openssl signatures
 
 
