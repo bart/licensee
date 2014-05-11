@@ -1,5 +1,6 @@
 # Licensee
 
+[![Latest Stable Version](https://poser.pugx.org/bart/licensee/v/stable.png)](https://packagist.org/packages/bart/licensee) [![License](https://poser.pugx.org/bart/licensee/license.png)](https://packagist.org/packages/bart/licensee)
 [![ProjectStatus](http://stillmaintained.com/bart/licensee.png)](http://stillmaintained.com/bart/licensee)
 
 A simple PHP class for license generation and verification based on openssl signatures
